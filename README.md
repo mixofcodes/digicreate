@@ -1,3 +1,5 @@
+<h1> Hack the Bronx 2 Submission </h1>
+
 <h1> Inspiration </h1>
 There is an alarming rate of 38% Bronx residents without any access to broadband internet despite being part of New York City. Bronx residents have feedback on relatively slow internet speeds in their neighbourhood. During COVID19, this issue was magnified when all physical interactions were shifted online. Bronx residents struggled to adapt digitally with insufficient digital skills and access to technological devices to gain access to basic needs during quarantine. Thus, governments and non-profit organisations intervened to provide necessary digital devices and broadband access for Bronx residents. Through this hackathon, I am inspired to make a difference by creating solutions to upskill the digital literacy of Bronx community through digital inclusion.
 

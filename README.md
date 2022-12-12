@@ -5,7 +5,7 @@ There is an alarming rate of 38% Bronx residents without any access to broadband
 DigiCares comprises of DigiTruck operating onsite and DigiCreate targeting online users. DigiTrucks aims to combat the problem behind the lack of physical access and ownership of digital devices. Through these trucks, Bronx residents can enjoy complimentary usage to digital devices and gain awareness of subsidies for for digital devices. It can serve to educate residents on the importance of digital literacy wtih complimentary onsite workshops as a complement. DigiCreate would be an online initiative to further upskill teens to learn coding which can potentially help them secure a job. It provides free coding courses through partnerships with non-profit organisations. Also, the workshops details and location of DigiTrucks would be updated on this website.
 
 <h1> How we built it </h1>
-The website was built using HTML and CSS facilitating as a complement to the onsite DigiTrucks.
+The website was built using HTML and CSS facilitating as a complement to the onsite solution of having DigiTrucks.
 
 <h1> Challenges we ran into </h1>
 The creation of a website in a short span of one week along with brainstorming on feasible solutions proved to be quite challenging.
